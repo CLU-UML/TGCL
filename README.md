@@ -34,7 +34,7 @@ graph = dataset[0] # pyg graph object
 dataset = Planetoid(root='/tmp/Cora', name='Cora')
 ```
 
-```
+
 * **Citeseer:** Citeseer is downloaded from Pytorch Geometric library (https://pytorch-geometric.readthedocs.io/en/latest/generated/torch_geometric.datasets.Planetoid.html#torch_geometric.datasets.Planetoid). We used following code:
 
 ```
