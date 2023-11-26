@@ -1,5 +1,7 @@
 # Complexity-Guided Curriculum Learning for Text Graphs
 
+TGCL is a complexity guided curriculum learning approach for text graph which employs multiview complexity formalisms to space training samples over time for iterative training. By leveraging text and graph complexity formalisms, TGCL determines optimized timing to revist a training example and also determines an order of training samples. TGCL establishes curricula that are both data driven and model- or learner-dependent.
+
 <p align="center">
 <img src="https://github.com/CLU-UML/TGCL/blob/main/tgcl.png" width="900" height="450">
 </p>
