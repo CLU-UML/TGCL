@@ -1,7 +1,7 @@
 # Complexity-Guided Curriculum Learning for Text Graphs
 
 <p align="center">
-<img src="https://github.com/CLU-UML/TGCL/blob/main/tgcl.png" width="800" height="450">
+<img src="https://github.com/CLU-UML/TGCL/blob/main/tgcl.png" width="900" height="450">
 </p>
 
 
