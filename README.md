@@ -53,6 +53,7 @@ To download datasets with embeddings and Train/Test/Val splits, go to data direc
 ```
 sh ./download.sh
 ```
+
 # To run the code 
 Use the following command with appropriate arguments:
 ### Node Classification
