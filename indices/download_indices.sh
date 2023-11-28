@@ -1,0 +1,11 @@
+wget https://clu.cs.uml.edu/data/TGCL/indices/citeseer_col_indices_part_train.csv
+wget https://clu.cs.uml.edu/data/TGCL/indices/citeseer_col_indices_part_val.csv
+wget https://clu.cs.uml.edu/data/TGCL/indices/cora_col_indices_v2_80_10_10.csv
+wget https://clu.cs.uml.edu/data/TGCL/indices/cora_col_indices_val.csv
+wget https://clu.cs.uml.edu/data/TGCL/indices/ogbn_arxiv_col_indices.csv
+wget https://clu.cs.uml.edu/data/TGCL/indices/ogbn_arxiv_col_indices_val.csv
+wget https://clu.cs.uml.edu/data/TGCL/indices/ogbn_arxiv_col_indices_w_nlp.csv
+wget https://clu.cs.uml.edu/data/TGCL/indices/omim_col_indices_v2.csv
+wget https://clu.cs.uml.edu/data/TGCL/indices/omim_col_indices_val.csv
+wget https://clu.cs.uml.edu/data/TGCL/indices/pgr_col_indices_part5.csv
+wget https://clu.cs.uml.edu/data/TGCL/indices/pgr_col_indices_part5_val.csv
