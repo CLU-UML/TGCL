@@ -58,11 +58,14 @@ sh ./download.sh
 Use the following command with appropriate arguments:
 ### Node Classification
 ```
+cd node_classification
+python3 node_classification.py
 
 ```
 ### Link Prediction
 ```
-
+cd link_prediction
+python3 link_prediction.py
 ```
 # Citation
 
