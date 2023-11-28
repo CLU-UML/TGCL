@@ -51,7 +51,14 @@ There are two datasets for link prediction: PGR and GDPR.
 To download datasets with embeddings and Train/Test/Val splits, go to data directory and run download.sh as follows
 
 ```
-sh ./download.sh
+sh data/download.sh
+```
+
+### Indices
+Indices for all the datasets can be downloaded using the below command:
+
+```
+sh indices/download.sh
 ```
 
 # To run the code 
